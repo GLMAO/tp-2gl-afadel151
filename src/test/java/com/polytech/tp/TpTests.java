@@ -2,6 +2,11 @@ package com.polytech.tp;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+
+import com.polytech.tp.interfaces.ICours;
+import com.polytech.tp.interfaces.Observer;
+import com.polytech.tp.interfaces.Subject;
+
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 
